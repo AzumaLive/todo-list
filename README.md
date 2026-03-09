@@ -1,3 +1,4 @@
+<h1>Простое "To Do List" на чистом JavaScript</h1>
 <h3>Стэк:</h3>
 <ul>
   <li>HTML5</li>
