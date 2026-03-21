@@ -1,6 +1,6 @@
 # To Do List
  
-Учебный проект — список задач с drag & drop сортировкой. Написан на чистом JavaScript без библиотек и фреймворков.
+Учебный проект — список задач. Написан на чистом JavaScript без библиотек и фреймворков.
  
 ## Возможности
  
@@ -26,4 +26,4 @@
 - События `click` и `change` через делегирование на родительском элементе
 - Управление состоянием внутри класса
 
-##<a href="https://www.figma.com/design/5g3oOYX6GNlezUCuk1xmaS/To-Do-List">Ссылка на макет в Figma</a>
+### <a href="https://www.figma.com/design/5g3oOYX6GNlezUCuk1xmaS/To-Do-List">Ссылка на макет в Figma</a>
